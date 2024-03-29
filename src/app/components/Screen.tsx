@@ -14,6 +14,8 @@ export default function Screen() {
       }
     }, [stream]);
 
+    //just checking code
+
     if (!stream) {
       return null;
     }
